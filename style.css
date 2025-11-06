@@ -11,7 +11,7 @@ header{
 }
 
 span{
-    margin: 10px 20px;
+    margin: 5px 10px;
     background-color: oklab(46.951% 0.18822 -0.06721);
     color: oklab(95.395% -0.06565 0.19537);
     padding: 10px;
